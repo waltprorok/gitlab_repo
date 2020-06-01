@@ -3,10 +3,9 @@
 ### 7 years of developement experience
 #### Orlando, FL
 
-* All of my Git Repositories are hosted on GitLab.
-
 ### GitLab Profile
 [GitLab.com/Tron213](https://gitlab.com/Tron213)
+* All of my Git Repositories are hosted on GitLab.
 
 ## Preferred Languages:
 * PHP

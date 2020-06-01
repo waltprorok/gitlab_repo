@@ -4,8 +4,9 @@
 #### Orlando, FL
 
 ### GitLab Profile
-[GitLab.com/Tron213](https://gitlab.com/Tron213)
 * All of my Git Repositories are hosted on GitLab.
+[GitLab.com/Tron213](https://gitlab.com/Tron213)
+
 
 ## Preferred Languages:
 * PHP

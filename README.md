@@ -7,6 +7,9 @@
 * All of my Git Repositories are hosted on GitLab.
 [GitLab.com/Tron213](https://gitlab.com/Tron213)
 
+### LinkedIn Profile
+[LinkedIn Link](https://www.linkedin.com/in/walter-prorok/)
+
 
 ## Preferred Languages:
 * PHP

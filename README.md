@@ -8,6 +8,7 @@
 [GitLab.com/Tron213](https://gitlab.com/Tron213)
 
 ### LinkedIn Profile
+* Profile on LinkedIn: 
 [LinkedIn Link](https://www.linkedin.com/in/walter-prorok/)
 
 

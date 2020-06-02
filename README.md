@@ -1,6 +1,6 @@
 # Walter Prorok
 ## Web Application Developer
-### 7 years of developement experience
+### 7 years of web developement experience.
 #### Orlando, FL
 
 ### GitLab Profile
@@ -10,7 +10,7 @@
 
 ## Preferred Languages:
 * PHP
-* Laravel (Framework)
+* Laravel (Php Framework)
 * HTML
 * CSS
 * JavaScript
@@ -19,7 +19,7 @@
 * MySQL
 
 ## Tools:
-* PhpStorm
+* PhpStorm (IDE)
 * SQL Editor (DBeaver, SQLite)
 * Git
 * Composer

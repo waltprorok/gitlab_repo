@@ -11,6 +11,9 @@
 * Profile on LinkedIn: 
 [LinkedIn Link](https://www.linkedin.com/in/walter-prorok/)
 
+### Twitter Profile
+* Handle: [@waltprorok](https://twitter.com/waltprorok)
+
 
 ## Preferred Languages:
 * Php

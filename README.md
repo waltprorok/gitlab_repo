@@ -13,17 +13,21 @@
 
 
 ## Preferred Languages:
-* PHP
+* Php
 * Laravel (Php Framework)
+* Python
+* Django (Python Framework)
 * HTML
 * CSS
 * JavaScript
 * jQuery
 * VueJS
+* AngularJS
 * MySQL
 
 ## Tools:
 * PhpStorm (IDE)
+* PyCharm (IDE)
 * SQL Editor (DBeaver, SQLite)
 * Git
 * Composer
@@ -34,4 +38,3 @@
 * Telecommunication
 * Retail
 * Entertainment Ticket Sales
-

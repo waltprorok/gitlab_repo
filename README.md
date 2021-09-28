@@ -31,7 +31,7 @@
 ## Tools:
 * PhpStorm (IDE)
 * PyCharm (IDE)
-* SQL Editor (DBeaver, SQLite)
+* SQL Editor (Squel Pro, DBeaver, SQLite)
 * Git
 * Composer
 * NPM

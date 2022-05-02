@@ -19,7 +19,6 @@
 * Php
 * Laravel (Php Framework)
 * Python
-* Django (Python Framework)
 * HTML
 * CSS
 * JavaScript

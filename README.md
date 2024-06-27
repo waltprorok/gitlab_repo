@@ -1,6 +1,6 @@
 # Walter Prorok
 ## Web Application Developer
-### 8 years of web developement experience.
+### 9 years of web developement experience.
 #### Orlando, FL
 
 ### GitLab Profile

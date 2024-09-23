@@ -29,8 +29,8 @@
 
 ## Tools:
 * PhpStorm (IDE)
-* PyCharm (IDE)
 * SQL Editor (Squel Pro, DBeaver, SQLite)
+* Co-Pilot / Chat GPT
 * Git
 * Composer
 * NPM

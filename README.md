@@ -36,6 +36,7 @@
 * NPM
 
 ## Domains:
+* Trucking Insurance
 * Pharmaceutical Software
 * Telecommunication
 * Retail

@@ -1,7 +1,8 @@
 # Walter Prorok
 ## Web Application Developer
 ### 9 years of web developement experience.
-#### Orlando, FL
+#### Location: Orlando, FL
+#### Remote: 4 years
 
 ### GitLab Profile
 * Additional Git Repositories are hosted on GitLab.
@@ -14,11 +15,9 @@
 ### Twitter Profile
 * Handle: [@waltprorok](https://twitter.com/waltprorok)
 
-
 ## Preferred Languages:
 * Php
-* Laravel (Php Framework)
-* Python
+* Laravel
 * HTML
 * CSS
 * JavaScript
@@ -26,6 +25,7 @@
 * VueJS
 * AngularJS
 * MySQL
+* Python
 
 ## Tools:
 * PhpStorm (IDE)

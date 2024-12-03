@@ -8,13 +8,6 @@
 * Profile on LinkedIn: 
 [LinkedIn Link](https://www.linkedin.com/in/walter-prorok/)
 
-### GitLab Profile
-* Additional Git Repositories are hosted on GitLab.
-[GitLab.com/Tron213](https://gitlab.com/Tron213)
-
-### Twitter Profile
-* Handle: [@waltprorok](https://twitter.com/waltprorok)
-
 ## Preferred Languages:
 * Php
 * Laravel
@@ -29,15 +22,16 @@
 
 ## Tools:
 * PhpStorm (IDE)
-* SQL Editor (Squel Pro, DBeaver, SQLite)
-* Co-Pilot / Chat GPT
+* SQL Editor
 * Git
 * Composer
 * NPM
+* Co-Pilot / Chat GPT
 
 ## Domains:
 * Trucking Insurance
 * Pharmaceutical Software
 * Telecommunication
 * Retail
+* Point of Sale
 * Entertainment Ticket Sales
